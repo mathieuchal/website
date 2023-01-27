@@ -11,7 +11,7 @@ title:            Mathieu Chalvidal
 tagline:          'Personal website'
 description:      'PhD Candidate at ANITI and Brown University.' 
 # Reach out on <a href="https://twitter.com/ChalviM" target="_blank">twitter</a>.'
-url:              http://mathieuchal.github.io
+url:              http://mathieuchal.github.io/
 baseurl:          /
 
 author:
