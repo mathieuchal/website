@@ -44,7 +44,7 @@ title: About
 <!-- **Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout. -->
 
 
-### Themes
+<!-- ### Themes
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
@@ -60,7 +60,7 @@ To use a theme, add anyone of the available theme classes to the `<body>` elemen
 <body class="theme-base-08">
   ...
 </body>
-```
+``` -->
 
 <!-- To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
 
