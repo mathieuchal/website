@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: https://mathieuchal.github.io/Research
+permalink: /Research
 ---
 
 <p class="message">
