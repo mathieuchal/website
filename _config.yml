@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Mathieu Chalvidal
+tagline:          'Personal website'
+description:      'PhD Candidate at ANITI and Brown University. Reach out on <a href="https://twitter.com/ChalviM" target="_blank">twitter</a>.'
+url:              http://mathieuchal.github.io/website/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Mathieu Chalvidal'
+  url:            https://twitter.com/ChalviM
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/poole/hyde
