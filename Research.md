@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+url: https://mathieuchal.github.io/Research/
 ---
 
 <p class="message">
