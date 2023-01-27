@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: Contact
 ---
 
 <h1>Contact details:</h1>. 
